@@ -3,6 +3,7 @@ library(lubridate)
 library(corrplot)
 library(RColorBrewer)
 library(forecast)
+library(ggplot2)
 
 data <- read.xlsx("combined_data.xlsx")
 
